@@ -1,5 +1,3 @@
-import { Dropdown } from "flowbite-react";
-
 export default function Navbar() {
     return(
         <div className="flex flex-row text-white text-opacity-75">
