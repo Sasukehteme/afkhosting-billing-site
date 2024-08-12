@@ -1,0 +1,1 @@
+<h1>AFK Hosting billing frontend<h1/>
